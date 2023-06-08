@@ -2,6 +2,7 @@
   "name": "administration",
   "version": "0.1.0",
   "private": true,
+  "author": "thathsara hewage",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -18,7 +19,12 @@
     "next": "13.4.4",
     "next-auth": "^4.20.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-sortablejs": "^6.1.4",
+    "react-spinners": "^0.13.8",
+    "react-sweetalert2": "^0.5.2",
+    "sortablejs": "^1.15.0",
+    "sweetalert2": "^11.7.11"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
